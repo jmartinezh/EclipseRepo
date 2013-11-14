@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carrerasfcc">
+        <item >Ing. en Cs. de la Computación</item>
+        <item >Lic. en Cs. de la Computación</item>
+        <item >Ing. en Tecnologías de la Información</item>
+    </string-array>
+    
+</resources>

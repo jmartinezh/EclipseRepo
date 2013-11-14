@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AulaBuap1</string>
+    <string name="app_name">AulaBUAP</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="login">LogIn</string>
+    <string name="login">Login</string>
     <string name="login_correo">Correo</string>
+    <string name="matricula">Matricula</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="registrarse">Registrate en AulaBUAP</string>
+    <string name="logoD">AulaBUAP</string>
+    <string name="nombre">Nombre (s)</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="carrera">Carrera</string>
+    <string name="correo">Email</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
 
 </resources>
